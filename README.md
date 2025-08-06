@@ -28,6 +28,3 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
-\`\`\`
-
-**6. `tailwind.config.ts`** (This file should be at the root of your project)
